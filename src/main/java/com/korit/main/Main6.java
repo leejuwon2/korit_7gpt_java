@@ -15,5 +15,6 @@ public class Main6 {
         BiPredicate<Integer, Integer> biPredicate;
         UnaryOperator<Integer> unaryOperator;
         BinaryOperator<Double> binaryOperator;
+        System.out.println("ㅎㅇ");
     }
 }
